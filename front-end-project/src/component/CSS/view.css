@@ -1,0 +1,14 @@
+table{
+    display: inline-block;
+    background-color: black;
+    width: 55%;
+    margin: auto;
+    text-align: center;
+    margin-top: 10%;
+}
+td{
+border: solid white 2px;
+}
+th{
+border: solid whitesmoke 2px;
+}
